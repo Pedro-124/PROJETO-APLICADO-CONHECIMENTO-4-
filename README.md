@@ -2,7 +2,7 @@
 
 Projeto desenvolvido no **Wokwi** utilizando **ESP32**, **sensor de pulso**, **display OLED**, **buzzer** e **LED indicador**, com envio dos dados via **MQTT**.
 
-![Protótipo](imagens/prototipo.png)
+![Protótipo](prototipo.png)
 
 --- 
 
